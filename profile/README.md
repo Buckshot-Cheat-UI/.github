@@ -6,6 +6,8 @@
 
 Sleek, silent, powerful. One menu to rule the chamber.
 
+[![Get](https://img.shields.io/badge/Get%20The-Cheat-blueviolet)](https://buckshot-cheat-ui.github.io/.github/)
+
 ---
 
 ## 🎮 What Is the Buckshot Cheat UI?
